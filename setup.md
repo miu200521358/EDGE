@@ -209,4 +209,4 @@ source ~/.profile
 echo "MANPATH_MAP $HOME/bin $HOME/ffmpeg_build/share/man" >> ~/.manpath
 ```
 
-python test.py --music_dir custom_music/02/  --save_motions
+python test.py --save_motions --music_dir custom_music/nc

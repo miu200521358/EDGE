@@ -16,3 +16,4 @@ __pycache__/
 cached_features/
 custom_music/
 eval/
+bulk_test.sh

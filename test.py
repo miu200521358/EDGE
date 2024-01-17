@@ -126,3 +126,6 @@ def test(opt):
 if __name__ == "__main__":
     opt = parse_test_opt()
     test(opt)
+
+    # Beep音を鳴らす
+    os.system('echo -e "\a"')
